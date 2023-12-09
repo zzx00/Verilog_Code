@@ -1,0 +1,9 @@
+E:/Verilog_Code/Exercise/bjtu_bilibili/sigma_16p.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Code/Exercise/bjtu_bilibili/sigma_16p.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module sigma_16p
+-- Compiling module sigma_16p_tb
+
+Top level modules:
+	sigma_16p_tb
+
+} {} {}}

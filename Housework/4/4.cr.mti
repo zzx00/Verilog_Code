@@ -1,0 +1,36 @@
+E:/Verilog_Code/Housework/4/testbench_Multiplier(1).v {1 {vlog -work work -vopt -stats=none E:/Verilog_Code/Housework/4/testbench_Multiplier(1).v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module test_multiplier
+
+Top level modules:
+	test_multiplier
+
+} {} {}} E:/Verilog_Code/Housework/4/adder.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Code/Housework/4/adder.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} E:/Verilog_Code/Housework/4/control.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Code/Housework/4/control.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} E:/Verilog_Code/Housework/4/shift.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Code/Housework/4/shift.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module shift
+
+Top level modules:
+	shift
+
+} {} {}} E:/Verilog_Code/Housework/4/top.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Code/Housework/4/top.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}}
